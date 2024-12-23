@@ -7,9 +7,14 @@ Welcome to my GitHub profile!
 ### 🧑‍💻 About Me:
 I love creating clean and scalable web applications, tackling complex challenges, and exploring new technologies. I'm a coding enthusiast, constantly looking to enhance my skills. I thrive in new environments and am always eager to learn any new skills that can help me grow. I'm also passionate about contributing to open-source projects
 
----
-
 ### 🔧 Technologies & Tools
+
+#### ⚙️ Frameworks
+<div style="display: flex; gap: 10px;">
+  <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952gduxxi7klmzo6jtp94qrzwplx72fake2pwqhekx8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200" />
+  <img src="https://maxmautner.com/public/images/django.gif" width="200" />
+</div>
+<div>React.js & Django</div>
 
 #### 💻 Programming Languages
 <div style="display: flex; gap: 10px;">
@@ -19,13 +24,6 @@ I love creating clean and scalable web applications, tackling complex challenges
   <img src="https://i.sstatic.net/ULs1E.gif" width="150" />
 </div>
 <div>Python, Javascript, HTML and CSS</div>
-
-#### ⚙️ Frameworks
-<div style="display: flex; gap: 10px;">
-  <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952gduxxi7klmzo6jtp94qrzwplx72fake2pwqhekx8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200" />
-  <img src="https://maxmautner.com/public/images/django.gif" width="200" />
-</div>
-<div>React.js & Django</div>
 
 #### 🛠️ Database Management
 <div style="display: flex; gap: 10px;">

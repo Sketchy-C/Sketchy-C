@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Willy Samuel.
+# Hi there 👋, I'm Wilson Sam.
 
 Welcome to my GitHub profile!
 

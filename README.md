@@ -43,7 +43,7 @@ I love creating clean and scalable web applications, tackling complex challenges
 
 - [LinkedIn](https://www.linkedin.com/in/willysamuel/)
 - [Twitter](https://twitter.com/willysamuel)
-- [Portfolio](https://yourportfolio.com) *(Update with your actual portfolio link)*
+- [Portfolio](https://yourportfolio.com)
 
 ---
 

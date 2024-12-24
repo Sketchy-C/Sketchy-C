@@ -23,7 +23,7 @@ I love creating clean and scalable web applications, tackling complex challenges
 ---
 ### 📈 GitHub Stats
 
-![Willy Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willysamuel&show_icons=true&theme=radical)
+![Willy Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sketchy-c&show_icons=true&theme=radical)
 
 ---
 

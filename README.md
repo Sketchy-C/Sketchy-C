@@ -31,7 +31,7 @@ I love creating clean and scalable web applications, tackling complex challenges
 
 - [LinkedIn](https://www.linkedin.com/in/wilson-sam-63b539343)
 - [Twitter](https://x.com/Sketchy_C_001?t=1Hv3JSFWik9cRjRcgVDpqA&s=09)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://)
 
 ---
 

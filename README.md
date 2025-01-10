@@ -7,22 +7,15 @@ Welcome to my GitHub profile!
 ### 🧑‍💻 About Me:
 I love creating clean and scalable web applications, tackling complex challenges, and exploring new technologies. I'm a coding enthusiast, constantly looking to enhance my skills. I thrive in new environments and am always eager to learn any new skills that can help me grow. I'm also passionate about contributing to open-source projects
 
-#### ⚙️ 🔧 Languages, Frameworks & Tools
-
-
 <div style="display: flex; gap: 10px;">
-  <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952gduxxi7klmzo6jtp94qrzwplx72fake2pwqhekx8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100" />
-  <img src="https://maxmautner.com/public/images/django.gif" width="100" />
-  <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.gif?cid=6c09b9526knm43eqch6ep7qs8khxlbi1afi4g7kt0z3he3za&ep=v1_gifs_search&rid=200.gif&ct=g" width="100" />
-  <img src="https://media4.giphy.com/media/SvFocn0wNMx0iv2rYz/200w.gif?cid=6c09b952qd2ia4og4fh0a9tm8fq2vjtw04vju1nk3lcvcq02&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100" />
-  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b95273ms3d3574micyjg5j21p4ra8o0kfb3a29k4dqi7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
-  <img src="https://i.sstatic.net/ULs1E.gif" width="100" />
-  <img src="https://miro.medium.com/v2/resize:fit:500/1*rAj9qt_OnWXCAlbJyUrhlw.gif" width="100" />
-  <img src="https://media.tenor.com/NN9_wWaCxx8AAAAe/mysql.png"  width="100" />
-  <img src="https://repository-images.githubusercontent.com/529502/dab2bd00-0ed2-11eb-8588-5e10679ace4d"  width="100" />
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" />
 </div>
 
 ---
+
+#### ⚙️ 🔧 Languages, Frameworks & Tools
+
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)

@@ -7,7 +7,9 @@ Welcome to my GitHub profile!
 ### 🧑‍💻 About Me:
 I love creating clean and scalable web applications, tackling complex challenges, and exploring new technologies. I'm a coding enthusiast, constantly looking to enhance my skills. I thrive in new environments and am always eager to learn any new skills that can help me grow. I'm also passionate about contributing to open-source projects
 
-#### ⚙️ 🔧 Languages, Frameworks & Tools 
+#### ⚙️ 🔧 Languages, Frameworks & Tools
+
+
 <div style="display: flex; gap: 10px;">
   <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952gduxxi7klmzo6jtp94qrzwplx72fake2pwqhekx8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100" />
   <img src="https://maxmautner.com/public/images/django.gif" width="100" />
@@ -20,6 +22,17 @@ I love creating clean and scalable web applications, tackling complex challenges
   <img src="https://repository-images.githubusercontent.com/529502/dab2bd00-0ed2-11eb-8588-5e10679ace4d"  width="100" />
 </div>
 
+---
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-00A9D9?style=for-the-badge&logo=scrapy&logoColor=white)
 
 ---
 

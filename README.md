@@ -17,13 +17,9 @@ I love creating clean and scalable web applications, tackling complex challenges
   <img src="https://i.sstatic.net/ULs1E.gif" width="100" />
   <img src="https://miro.medium.com/v2/resize:fit:500/1*rAj9qt_OnWXCAlbJyUrhlw.gif" width="100" />
   <img src="https://media.tenor.com/NN9_wWaCxx8AAAAe/mysql.png"  width="100" />
+  <img src="https://repository-images.githubusercontent.com/529502/dab2bd00-0ed2-11eb-8588-5e10679ace4d"  width="100" />
 </div>
 
-
----
-### 📈 GitHub Stats
-
-![Willy Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sketchy-c&show_icons=true&theme=radical)
 
 ---
 
